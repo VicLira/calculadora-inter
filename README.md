@@ -6,7 +6,8 @@ Conteudo exclusivo e gratuito, promovido pela DIO para ensino de tecnologias WEB
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-licença">Licença</a>
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -16,7 +17,7 @@ Conteudo exclusivo e gratuito, promovido pela DIO para ensino de tecnologias WEB
 <br>
 
 <p align="center">
-  <img alt="calculadora-inter" src="./.github/project.png" width="100%">
+  <img alt="calculadora-inter" src="./.github/project.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
